@@ -331,7 +331,7 @@ const emitCountChanged = machineSetup.emit(({ context }) => ({
 
 // Custom action with createAction
 const logState = machineSetup.createAction(({ context, event }) => {
-  console.log(`Count: ${context.count}, Event: ${event.type}`);
+  console.log("Count: " + context.count + ", Event: " + event.type);
 });
 
 // Type-bound enqueueActions

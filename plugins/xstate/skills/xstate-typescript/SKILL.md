@@ -219,7 +219,7 @@ export const emitChange = machineSetup.emit(({ context }) => ({
 }));
 
 export const logState = machineSetup.createAction(({ context, event }) => {
-  console.log(`Count: ${context.count}, Event: ${event.type}`);
+  console.log("Count: " + context.count + ", Event: " + event.type);
 });
 
 // machine.ts
@@ -375,7 +375,7 @@ const machine = setup({
 // BETTER — action doesn't depend on machine's event types
 actions: {
   greetUser: (_, params: { name: string }) => {
-    console.log(`Hello, ${params.name}!`);
+    console.log("Hello, " + params.name + "!");
   },
 }
 
