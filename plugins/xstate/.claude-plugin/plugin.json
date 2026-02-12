@@ -1,0 +1,8 @@
+{
+  "name": "xstate",
+  "description": "XState v5 skills for state machine development — modeling, states, transitions, actions, actors, testing, TypeScript, and common patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ilya Gulya"
+  }
+}

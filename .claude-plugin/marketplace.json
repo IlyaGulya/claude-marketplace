@@ -1,0 +1,16 @@
+{
+  "name": "claude-marketplace",
+  "owner": {
+    "name": "Ilya Gulya"
+  },
+  "metadata": {
+    "description": "Claude Code plugin marketplace by Ilya Gulya"
+  },
+  "plugins": [
+    {
+      "name": "xstate",
+      "source": "./plugins/xstate",
+      "description": "XState v5 skills for state machine development"
+    }
+  ]
+}
