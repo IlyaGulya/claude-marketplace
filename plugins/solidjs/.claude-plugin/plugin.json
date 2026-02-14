@@ -1,0 +1,8 @@
+{
+  "name": "solidjs",
+  "description": "SolidJS skills for reactive UI development — reactivity, components, async data, stores, and control flow",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ilya Gulya"
+  }
+}

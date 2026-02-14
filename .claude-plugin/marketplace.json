@@ -11,6 +11,11 @@
       "name": "xstate",
       "source": "./plugins/xstate",
       "description": "XState v5 skills for state machine development"
+    },
+    {
+      "name": "solidjs",
+      "source": "./plugins/solidjs",
+      "description": "SolidJS skills for reactive UI development"
     }
   ]
 }
