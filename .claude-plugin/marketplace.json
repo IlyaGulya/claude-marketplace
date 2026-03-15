@@ -16,6 +16,16 @@
       "name": "solidjs",
       "source": "./plugins/solidjs",
       "description": "SolidJS skills for reactive UI development"
+    },
+    {
+      "name": "skill-creator",
+      "source": "./plugins/skill-creator",
+      "description": "Comprehensive toolkit for building Claude Code skills — creation guide, review, frontmatter reference, patterns, troubleshooting, and plugin packaging"
+    },
+    {
+      "name": "context-file-linter",
+      "source": "./plugins/context-file-linter",
+      "description": "Research-backed linter for CLAUDE.md and AGENTS.md files — identifies instructions that hurt agent performance based on peer-reviewed evaluation"
     }
   ]
 }

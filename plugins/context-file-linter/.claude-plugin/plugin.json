@@ -1,0 +1,8 @@
+{
+  "name": "context-file-linter",
+  "description": "Research-backed linter for CLAUDE.md, AGENTS.md, and similar context files. Analyzes context files against findings from 'Evaluating AGENTS.md' (Gloaguen et al., 2026) to identify instructions that hurt agent performance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ilya Gulya"
+  }
+}

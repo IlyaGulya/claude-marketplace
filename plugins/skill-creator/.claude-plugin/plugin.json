@@ -1,0 +1,8 @@
+{
+  "name": "skill-creator",
+  "description": "Comprehensive toolkit for building Claude Code skills — interactive creation guide, review and validation, frontmatter reference, common patterns, troubleshooting, and plugin packaging",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ilya Gulya"
+  }
+}
