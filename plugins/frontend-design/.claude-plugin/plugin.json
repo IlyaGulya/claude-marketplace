@@ -1,0 +1,8 @@
+{
+  "name": "frontend-design",
+  "description": "Production-grade frontend interface design with high visual diversity — includes frontend-design-v2 skill and style-director-v2 agent for generating distinctive, non-generic UI",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anthropic"
+  }
+}

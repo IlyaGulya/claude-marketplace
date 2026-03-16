@@ -26,6 +26,11 @@
       "name": "context-file-linter",
       "source": "./plugins/context-file-linter",
       "description": "Research-backed linter for CLAUDE.md and AGENTS.md files — identifies instructions that hurt agent performance based on peer-reviewed evaluation"
+    },
+    {
+      "name": "frontend-design",
+      "source": "./plugins/frontend-design",
+      "description": "Production-grade frontend interface design with high visual diversity — frontend-design-v2 skill and style-director-v2 agent"
     }
   ]
 }
